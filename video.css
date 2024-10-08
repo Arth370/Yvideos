@@ -1,0 +1,42 @@
+.like{
+    width: 90px;
+    position: absolute;
+    right: 45%;
+    bottom:-130px;
+    cursor: pointer;
+}
+.num{
+    width: 90px;
+    position: absolute;
+    right: 41%;
+    bottom:-150px;
+}
+.sipso{
+    width:80px;
+    right: 65%;
+    position: absolute;
+    bottom:-150px;
+    border-radius: 180px;
+}
+.canal h2{
+    color: white;
+    right: 54%;
+    position: absolute;
+    bottom:-150px;
+    border: solid;
+    background-color: red;
+    cursor: pointer;
+    
+}
+.canal h1{
+    right: 61%;
+    position: absolute;
+    bottom:-150px;
+}
+.canal h2:hover{
+    color:red;
+    background-color: white;
+}
+.like:hover{
+    background-color: gray;
+}

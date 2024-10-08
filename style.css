@@ -1,0 +1,53 @@
+.titulo{
+    right:48%;
+    position:absolute;
+}
+.letra{
+    color: red;
+    bottom: top;
+    right:52%;
+    position: absolute;
+}
+#cabeca{
+    border-style:solid ;
+    border-width:20px 100px;
+    border-color: rgb(231, 231, 231);
+    background-color:  rgb(231, 231, 231);
+    height:100px;
+}
+.lupa{
+    right:10px;
+    position: absolute;
+    width:80px;
+}
+.pesquisa{
+    right:100px;
+    position: absolute;
+    width:200px;
+    bottom: 875px;
+    height:30px ;
+}
+.iame{
+    width: 200px;
+    position: absolute;
+    height: 150px;
+}
+.texto{
+    width: 200px;
+    bottom:400px;
+    position: absolute;
+    height: 200px;
+}
+.bolacha{
+    width: 200px;
+    position: absolute;
+    height: 150px;
+    right:75%;
+}
+.titulo2{
+    width: 200px;
+    bottom:400px;
+    position: absolute;
+    height: 200px;
+    right:75%;
+}
