@@ -2,27 +2,27 @@
     width: 90px;
     position: absolute;
     right: 43%;
-    bottom: 7%;
+    bottom: 3%;
     cursor: pointer;
 }
 .num{
     width: 90px;
     position: absolute;
     right: 39%;
-    bottom: 5%;
+    bottom: 1%;
 }
 .sipso{
     width:80px;
     right: 65%;
     position: absolute;
-    bottom: 5%;
+    bottom: 1%;
     border-radius: 180px;
 }
 .canal h2{
     color: white;
     right: 48%;
     position: absolute;
-    bottom: 5%;
+    bottom: 1%;
     border: solid;
     background-color: red;
     cursor: pointer;
@@ -31,7 +31,7 @@
 .canal h1{
     right: 55%;
     position: absolute;
-    bottom: 5%;
+    bottom: 1%;
 }
 .canal h2:hover{
     color:red;
