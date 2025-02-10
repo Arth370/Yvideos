@@ -1,0 +1,60 @@
+/*cabeçário*/
+body{
+    margin:0;
+}
+#cabecario{
+    display:flex;
+    justify-content:space-between;
+    background-color: gray;
+}
+#texto{
+    display:flex;
+}
+.Y{
+    color: red;
+}
+.lupa{
+    width:1em;
+}
+#pesquisa{
+    display: flex;
+    height:1.5em;
+    align-self: center;
+}
+.pesquisa{
+    border-radius:0.5em;
+    border: none;
+}
+#login{
+display: flex;
+align-items: center;
+}
+.login{
+    width:3em;
+    height:3em;
+    border: 1px solid;
+    border-radius: 2em;
+}
+/*Videos curtidos*/
+#fileira1{
+    display: flex;
+    justify-content: center;
+    gap:2em;
+}
+.videos{
+    display: flex;
+    flex-direction: column;
+}
+.thumb{
+    width:14em;
+    height:9em;
+}
+.titulo{
+    text-decoration: none;
+    color: black;
+}
+#fileira2{
+    display: flex;
+    justify-content: center;
+    gap:2em;
+}
